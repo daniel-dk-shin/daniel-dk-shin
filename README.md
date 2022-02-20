@@ -2,7 +2,6 @@
 
 - 👋 Hi, my name is Daniel and I am currently a university student based in Sydney, Australia
 - 🎓 Completing a Bachelor of Cyber Security at Macquarie University (MQU)
-- 👀 I’m interested in fitness, custom keyboards and the metaverse
 - 📫 How to reach me -> dkshin2002@gmail.com
 
 <!---
